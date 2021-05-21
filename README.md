@@ -1,6 +1,6 @@
 # Etch--A--Skech-Retro-Game
 
-<img src="https://github.com/FinancialCoder5/Etch--A--Skech-Retro-Game/blob/main/Images/Game.jpg" width="200" >
+<img src="https://github.com/FinancialCoder5/Etch--A--Sketch-Retro-Game/blob/main/Images/Game.jpg" width="200" >
 
 ## Introduction
 The Objective is to have fun while you learn! 
